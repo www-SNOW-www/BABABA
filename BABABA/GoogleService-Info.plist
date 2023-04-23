@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>101494040133-pubdlkt01sgtsetv1t65mpq59urkr5h7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.101494040133-pubdlkt01sgtsetv1t65mpq59urkr5h7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArfMBVW7T1XV2RtCoSXJNlgSk40cquvOw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>101494040133</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Snow.BABABA</string>
+	<key>PROJECT_ID</key>
+	<string>bababa-d90b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bababa-d90b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:101494040133:ios:4f8475a07445ce9bd6652c</string>
+</dict>
+</plist>
